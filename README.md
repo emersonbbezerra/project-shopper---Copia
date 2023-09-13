@@ -65,6 +65,3 @@ Você também pode visualizar os dados atualizados na tabela de produtos (Após 
 
 ## Contribuição
 Sinta-se à vontade para contribuir para este projeto. Se você encontrar problemas ou desejar adicionar novos recursos, crie um problema ou envie uma solicitação pull.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
